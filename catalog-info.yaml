@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: applicationrun
+  annotations:
+    github.com/project-slug: YSILESHI/applicationrun
+#    sonarqube.org/project-key:
+#    fossa.io/project-name:
+spec:
+  type: website
+  lifecycle: experimental
+  owner: 
